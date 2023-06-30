@@ -1,0 +1,20 @@
+Start --> 
+Accept first number --> 
+Check if the number is zero --> 
+If yes, go to End --> 
+If no, continue to next step --> 
+Store the first number as the highest number and the smallest number --> 
+Update the count and sum variables --> 
+Accept next number --> 
+Check if the number is zero --> 
+If yes, go to End --> 
+If no, continue to next step --> 
+Compare the current number with the highest number --> 
+If it is higher, update the highest number --> 
+Compare the current number with the smallest number --> 
+If it is smaller, update the smallest number --> 
+Update the count and sum variables --> 
+Repeat the process until the number is zero --> 
+Calculate the average using the sum and count variables --> 
+Print the highest number, average, and smallest number --> 
+End
